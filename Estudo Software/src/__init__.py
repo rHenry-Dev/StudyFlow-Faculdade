@@ -1,0 +1,1 @@
+"""AulaMind package."""
